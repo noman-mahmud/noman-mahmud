@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm NOMAN MAHMUD</h1>
+<h1 align="center">Hi 👋, I'm NOMAN MAHMUD</h1>
 <h2 align="center">Front-End Developer | React Developer</h2>
 
 ## **About Me: <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">**
@@ -27,14 +27,14 @@ As a passionate and driven front-end developer with excellence in react, my stri
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;<br/>
 
 ### Github Stats: <img src="https://media.giphy.com/media/ww9Z3l8wl4szKyRIro/giphy.gif" width="30">
-![noman-mahmud Stats](https://github-readme-stats.vercel.app/api?username=noman-mahmud&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![mahmudul-noman Stats](https://github-readme-stats.vercel.app/api?username=mahmudul-noman&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![noman-mahmud Streak](https://github-readme-streak-stats.herokuapp.com/?user=noman-mahmud&theme=darcula&hide_border=true)
+![mahmudul-noman Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmudul-noman&theme=darcula&hide_border=true)
 
-![noman-mahmud Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noman-mahmud&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![mahmudul-noman Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudul-noman&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Get In Touch: <img src="https://media.giphy.com/media/YMwAWYzXzK4FXrjCZu/giphy.gif" width="40">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/hujaifa-al-noman-7492982a3) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white")](https://www.facebook.com/nomanmahmud0.1)<br/>
-ðŸ“§E-mail: **nom11anmah33mud@gmail.com**<br/>
-ðŸ“±Phone: **+880 1905748533**
+📧E-mail: **nom11anmah33mud@gmail.com**<br/>
+📱Phone: **+880 1905748533**
